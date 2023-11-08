@@ -1,5 +1,5 @@
 
-<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Practicando+SASS;en+Programacion+.+UTN">![image](https://github.com/AndreaLlavel/Sass-SCSS-Ejercicios/assets/112596102/47cb6bfd-2b43-41aa-9ca3-2f983da6e373)
+<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Practicando">![image](https://github.com/AndreaLlavel/Sass-SCSS-Ejercicios/assets/112596102/47cb6bfd-2b43-41aa-9ca3-2f983da6e373)<a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=en+Programacion+.+UTN">
 
 </a>
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
