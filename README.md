@@ -8,6 +8,6 @@
 Practicas de SCSS
 <h2>SASS es un preprocesador de CSS compatible cont odas sus versiones. Por lo tanto, se trata de una herramienta utilizada por los desarrlladores web para traducir un codigo de hojas de estilo no estandar a un codigo CSS estandar, legible por la mayoria de los navegadores.</h2>
 <br>
-<img src="https://github.com/AndreaLlavel/Sass-SCSS-Ejercicios/assets/112596102/36f38960-7851-4f5e-b6fb-b43dd5197d1f" width="75px" heigth="55px">
+<p><img src="https://github.com/AndreaLlavel/Sass-SCSS-Ejercicios/assets/112596102/36f38960-7851-4f5e-b6fb-b43dd5197d1f" width="75px" heigth="55px">
 
-https://youtu.be/q5ooTwFMN8c?si=_k6mkBQs1XfUe6kP
+https://youtu.be/q5ooTwFMN8c?si=_k6mkBQs1XfUe6kP </p>
