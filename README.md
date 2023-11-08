@@ -1,4 +1,4 @@
-# Sass-SCSS-Ejercicios
+
 <a href="https://github.com/AndreaLlavel"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Practicando;en+Programacion+.+UTN"></a>
 <img src="http://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif">
 </p>
